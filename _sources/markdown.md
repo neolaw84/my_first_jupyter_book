@@ -6,6 +6,7 @@
 ```{mermaid}
 flowchart TD
     Start --> Stop --> Blar
+    Blar --> Blee
 ```
 
 Whether you write your book's content in Jupyter Notebooks (`.ipynb`) or
